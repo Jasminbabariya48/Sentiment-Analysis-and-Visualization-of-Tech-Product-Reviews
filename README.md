@@ -69,5 +69,5 @@ This project performs **sentiment analysis and summarization** on Amazon product
 - Automate data pipeline for real-time analysis.
 
 ## Contributors
-- **[Your Name]**
+- **Jasmin Babariya & Darshan Gajera**
 
